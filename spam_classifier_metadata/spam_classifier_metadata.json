@@ -1,0 +1,8 @@
+{
+    "legend": {
+        "ham": 0,
+        "spam": 1
+    },
+    "max_sequence": 300,
+    "max_words": 280
+}
